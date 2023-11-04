@@ -7,3 +7,4 @@ Finite difference python code for comparing different schemes for solving proble
 ![image](https://github.com/Parass2802/Numerical-scheme-comparison-for-heaviside-input-problems/assets/149015075/aba70bb6-9cff-49b8-9acd-d670a936b86c)
 ![image](https://github.com/Parass2802/Numerical-scheme-comparison-for-heaviside-input-problems/assets/149015075/94c06420-3ef3-414f-b53c-fb43f286d0d0)
 
+
